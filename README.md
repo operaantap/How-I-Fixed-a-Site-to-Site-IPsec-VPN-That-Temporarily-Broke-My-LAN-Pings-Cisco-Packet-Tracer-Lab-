@@ -1,0 +1,2 @@
+# How-I-Fixed-a-Site-to-Site-IPsec-VPN-That-Temporarily-Broke-My-LAN-Pings-Cisco-Packet-Tracer-Lab-
+I recently completed a site-to-site VPN lab in Cisco Packet Tracer. OSPF routing worked perfectly, and both PCs communicated without issues… …but the moment I applied the IPsec crypto map, LAN-to-LAN pings stopped working. If this has ever happened to you, here’s exactly what caused it and how it resolved itself.
